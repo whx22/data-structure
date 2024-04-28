@@ -1,0 +1,5 @@
+#ifndef _SEQUENTIAL_LIST_
+#define _SEQUENTIAL_LIST_
+
+
+#endif  // _SEQUENTIAL_LIST_

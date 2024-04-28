@@ -1,0 +1,6 @@
+# ninja log v5
+185	221	1669855166150086998	clion	88a65e1ab42304b9
+0	170	1669855166098087969	CMakeFiles/clion.dir/expression_conversion.cpp.o	c4848e2294b54077
+0	172	1669855166102087894	CMakeFiles/clion.dir/expression_calculation.cpp.o	e16813282b56b02d
+0	17	1670948322519857825	build.ninja	aa9c497250473c12
+0	185	1669855166114087670	CMakeFiles/clion.dir/main.cpp.o	d0906198e44e8c0b

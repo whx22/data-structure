@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/graph.dir/exercise_traverse_list_graph.cpp.o -o graph 

@@ -1,0 +1,4 @@
+/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/apps/com.jetbrains.clion/files/bin/ninja/linux/ninja -G Ninja -S /home/whx/develop/data_structure/stack&queue/new/clion -B /home/whx/develop/data_structure/stack&queue/new/clion/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/whx/develop/data_structure/stack&queue/new/clion/cmake-build-debug

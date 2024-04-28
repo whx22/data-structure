@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/data/home/whx/develop/data_structure/graph/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/graph.dir/exercise_traverse_list_graph.cpp.o -c /data/home/whx/develop/data_structure/graph/exercise_traverse_list_graph.cpp",
+  "file": "/data/home/whx/develop/data_structure/graph/exercise_traverse_list_graph.cpp"
+}
+]

@@ -1,0 +1,7 @@
+# ninja log v5
+140	178	1669953264319695101	clion	9e8a5b290dadfb25
+0	140	1669953264283694392	CMakeFiles/clion.dir/string_function.cpp.o	310b9e1663dc21a3
+0	138	1669953264279694314	CMakeFiles/clion.dir/main.cpp.o	f9726c573b6152bf
+0	169	1670229875598977149	CMakeFiles/clion.dir/main.cpp.o	274c158721862d20
+0	170	1670229875602977218	CMakeFiles/clion.dir/string_function.cpp.o	bc5fa9f8b39dd4ac
+170	232	1670229875662978249	clion	9e8a5b290dadfb25

@@ -1,0 +1,6 @@
+# ninja log v5
+0	217	1677820243002819422	CMakeFiles/project.dir/main.cpp.o	5c0fdd5eaf1c55cf
+218	267	1677820243050820413	project	a14e0dc83ba2abdf
+1	191	1677896135138633033	CMakeFiles/project.dir/main.cpp.o	fa4a47e949ae1657
+1	201	1677896135146633170	CMakeFiles/project.dir/string_function.cpp.o	ecd6d58bca4455e3
+201	238	1677896135182633786	project	13f567efdf0bf274

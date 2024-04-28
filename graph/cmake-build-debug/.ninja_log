@@ -1,0 +1,7 @@
+# ninja log v5
+0	136	1680846606600724353	CMakeFiles/debug.dir/exercise_dijkstra.cpp.o	17aec237bb84376b
+0	176	1680851074446876099	CMakeFiles/graph.dir/exercise_floyd.cpp.o	3ec516c065edb30a
+0	233	1681141045306801776	CMakeFiles/graph.dir/exercise_traverse_list_graph.cpp.o	491a2919426f909a
+136	171	1680846606636724944	debug	517538426953a8ed
+233	270	1681141045342802364	graph	b219c69b135227de
+0	139	1680835816714306886	CMakeFiles/debug.dir/exercise_prim.cpp.o	98b73839cf352ceb

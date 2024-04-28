@@ -1,0 +1,8 @@
+# ninja log v5
+0	314	1677747338694468912	CMakeFiles/project.dir/stack.cpp.o	e3adfefe818bde29
+0	529	1677747338910473145	CMakeFiles/project.dir/main.cpp.o	247625102c03f844
+1	528	1677747338910473145	CMakeFiles/project.dir/expression_conversion.cpp.o	af8a0c4d52b212c9
+1	447	1677747338830471576	CMakeFiles/project.dir/expand_match.cpp.o	4903252f7d03d9f3
+529	578	1677747338958474086	project	1057032412ecb085
+0	448	1677747338826471499	CMakeFiles/project.dir/expression_calculation.cpp.o	1906e9b3da245af7
+0	359	1677747338738469773	CMakeFiles/project.dir/queue.cpp.o	d6cf444c3c3bc330
